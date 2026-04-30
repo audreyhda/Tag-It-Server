@@ -276,4 +276,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 </div>
 
 
+---
+
+
 *Apple Foundation Program Advanced · Mini Challenge 3: Zeus · Built with ❤️ and SwiftUI in Paris*
