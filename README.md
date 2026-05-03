@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview 
 
 This repository contains the server-side component of Tag It, built with [Vapor](https://vapor.codes/) (server-side Swift). It exposes a JSON REST API consumed by the iOS SwiftUI client, handles user authentication via JWT, and persists street art works, users, and favourites to a relational database through Fluent ORM.
 
